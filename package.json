@@ -44,7 +44,7 @@
   },
   "dependencies": {
     "crypto-js": "^3.1.9-1",
-    "fontkit": "^1.8.0",
+    "fontkit": "git://github.com/appropos/fontkit.git#281fa5c69e1f511f6d78f9124c3fab0eaf6705cc",
     "linebreak": "^1.0.2",
     "png-js": "^1.0.0"
   },
